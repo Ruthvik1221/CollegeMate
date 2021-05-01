@@ -2,4 +2,75 @@
 	width: 70%;
 	display: block;
 	margin: auto;
+
+}
+body{
+	background-color: /*jetblack-*/#343434  /*#696969*/;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.accordion-item{
+background-color: 	 #505050   /*  #808080*/;
+}
+.accordion-item-inside{
+	background-color: #686868;
+}
+
+.icon-image {
+    width: 87px;
+    height: 112.5px;
+    float:left;
+    margin-right: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;;
+    
+    }
+#SemBooksaccordion{
+	margin:auto;
+	width:85%;
+}
+
+#books{
+	position:relative;
+	margin: auto;
+	margin-left: 40px;
+
+
+
+}
+/*#purchase{
+	float: right;
+
+}*/
+.links{
+	padding-top:5px;
+	padding-left:20px;
+	padding-bottom: 0px;
+
+}
+.button-space{
+	margin-left: 2px;
+}
+/*.icon-image-2{
+	width: 87px;
+    height: 112.5px;
+    margin-left: 55px;
+
+}
+*/
+.button-set2{
+	margin-left: 10px;;
+
+}
+td { text-align: center; }
+.button-align{
+	float:right;
+}
+#books-multiple{
+	margin-left: 22px;
+}
+p{
+	margin-left:10px;
+	color:white;
 }

@@ -70,6 +70,15 @@ h4{
 	opacity: 1;
 }
 */
+.navbar{
+	height: 65px;
+}
+.navbar-brand{
+	font-size: 30px;
+}
+.nav-item{
+	font-size: 20px;
+}
 
 body{
 	background-color: #282C2F/*jetblack-#343434 */ /*#696969*/;
@@ -147,6 +156,9 @@ td{
 	font-family: sans-serif;
 	color:white;
 	width:50%;
+	margin-top: auto;
+	margin-bottom:auto;
+
 
 
 }
@@ -162,4 +174,18 @@ td{
 }
 #right{
 	float:left;
+	text-align: center;
+}
+#title
+{
+	font-family: "Montserrat-black";
+	font-size: 3rem;
+	line-height: 2;
+}
+.branches{
+	width:75%;
+	align-content: center;
+}
+.margin{
+	margin:auto;
 }

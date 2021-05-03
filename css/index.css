@@ -78,6 +78,8 @@ h4{
 }
 .nav-item1{
 	font-size: 20px;
+	padding:5px;
+	padding-bottom: 2px;
 }
 
 body{
@@ -125,6 +127,7 @@ body{
 	display: block;
 	width: 90%;
 	float: left;
+	margin:auto;
 	/*position:relative;
  	padding-left: 170px;*/
 }
@@ -164,7 +167,7 @@ td{
 }
 .blockquote{
 	font-size: 50px;
-
+	font-color:Montserrat-black;
 
 }
 
@@ -181,6 +184,7 @@ td{
 	font-family: "Montserrat-black";
 	font-size: 3rem;
 	line-height: 2;
+	color: #8f8f8f;
 }
 .branches{
 	width:75%;
@@ -193,5 +197,10 @@ a{
 	font-size: 20px;
 }
 #project_title{
-	font-size: 30px;
+	font-size: 37px;
+
 }
+.heading{
+	color:#000000;
+}
+

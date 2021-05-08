@@ -71,7 +71,7 @@ h4{
 }
 */
 .navbar1{
-	height: 65px;
+	height: 70px;
 }
 .navbar-brand1{
 	font-size: 30px;
@@ -189,11 +189,15 @@ td{
 .branches{
 	width:75%;
 	align-content: center;
+	background-color: #323639;
+	padding:14px;
+
 }
 .margin{
 	margin:auto;
 }
 a{
+
 	font-size: 20px;
 }
 #project_title{
@@ -203,4 +207,6 @@ a{
 .heading{
 	color:#000000;
 }
-
+.card-title{
+	text-align: center;
+}
